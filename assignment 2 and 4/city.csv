@@ -1,0 +1,8 @@
+city_id, name, continent, Surface_Area, population, capital, country_id
+1,Cairo,Africa,1000000,100000,TRUE,1
+2,Alex,Africa,330000,230000,FALSE,1
+3,london,Europa,5700000,200000,FALSE,2
+4,manchester,Europa,5600000,340000,FALSE,2
+5,torino,Europa,2300000,544442,FALSE,3
+6,paris,Europa,8880000,36262,TRUE,4
+7,lyon,Europa,234567,12233,FALSE,4
